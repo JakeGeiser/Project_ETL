@@ -1,0 +1,4 @@
+wikipedia api calls
+https://www.mediawiki.org/wiki/API:Main_page
+
+https://stackoverflow.com/questions/6168020/what-is-wikipedia-pageid-how-to-change-it-into-real-page-url
