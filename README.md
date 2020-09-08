@@ -8,7 +8,7 @@
 ### I. Sources:
 #### A. https://www.kaggle.com/blitzr/movehub-city-rankings?select=cities.csv
 #### B. https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubcostofliving.csv
-#### C. https://www.movehub.com/city-rankings/
+#### C. https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubqualityoflife.csv
 #### D. https://worldpopulationreview.com/world-cities
 
 ### II. We extracted 3 CSVs from Kaggle examining an expanse of cities around the world, their cost of living, and quality of life. We also got populations and population densities for the top 1147 cities from worldpopulationreview. Using ETL methodology, we will be investigating municipalities where the population exceeds 500,000. After extracting data from the CSVs, we will reconstruct our findings and reload them into a relational database.  
