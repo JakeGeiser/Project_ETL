@@ -18,5 +18,5 @@ We extracted 3 CSVs from Kaggle examining an expanse of cities around the world,
 Using Pandas Python module, we merged the four csv files in the following order: mh_costofliving.csv --> mh_qualityoflife.csv --> mh_cities.csv --> Populations.csv. This order was chosen as the first merge resulted in no loss of rows, but the second resulted in a one to many scenario where we then chose to remove any city that whas repeated. The third and final merge resulted in only keeping the cities with more than 500,000 in population.
 
 ## Load 
-### I. Loading data into a relational database for referencing and analysis
+Added 4 panda Dataframes into PostgreSQL as tables in one database for ease of use later.
 
